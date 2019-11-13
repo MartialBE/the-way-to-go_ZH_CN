@@ -1,3 +1,10 @@
+# 《Go入门指南》 GitBook 
+
+- 本仓库内容全部来自 [Go 入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)。
+- 由于直接通过git查看文档很痛苦，其他人制作的gitbook文档很久没更新了，所以自己整理了一下。
+- 可以通过 [go.xiao5.info](go.xiao5.info) 进行访问查看。
+---
+
 《Go入门指南》
 ===================
 
